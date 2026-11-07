@@ -1,0 +1,11 @@
+{
+  "org": "ansible-collections",
+  "repo": "community.pacemaker",
+  "versions": [
+    {
+      "commit": "9868faf273896a01af2e3662330a5023c1438492",
+      "tag": "",
+      "parsed_at": "2026-11-07T17:42:46.998808+00:00"
+    }
+  ]
+}
