@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/community.pacemaker/commit/9868faf273896a01af2e3662330a5023c1438492",
       "git:hexsha": "9868faf273896a01af2e3662330a5023c1438492",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T17:42:46.998433+00:00"
     }
   ]
 }
